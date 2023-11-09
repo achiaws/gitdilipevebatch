@@ -1,0 +1,7 @@
+Hello 
+This is dilip 
+added file in a.txt
+This is the first line before addinig
+
+this line is added after giving the command git add
+
